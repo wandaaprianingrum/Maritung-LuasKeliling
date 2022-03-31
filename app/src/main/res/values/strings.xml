@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Maritung</string>
+    <string name="maritung_intro">Hitung Keliling dan Luas Persegi Panjang</string>
+    <string name="panjang">Panjang (cm)</string>
+    <string name="lebar">Lebar (cm)</string>
+    <string name="jenis_hitungan">Hitung</string>
+    <string name="keliling">Keliling</string>
+    <string name="luas">Luas</string>
+    <string name="keliling_x">Keliling: %1$.2f</string>
+    <string name="luas_x">Luas: %1$.2f</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="panjang_invalid">Panjang tidak boleh kosong.</string>
+    <string name="lebar_invalid">Lebar tidak boleh kosong.</string>
+    <string name="hitung_invalid">Pilih jenis hitung.</string>
+</resources>

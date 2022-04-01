@@ -17,11 +17,11 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.button.setOnClickListener {
+        binding.buttonHitung.setOnClickListener {
             hitungKelilingLuas()
         }
 
-        binding.button3.setOnClickListener {
+        binding.buttonReset.setOnClickListener {
             resetHitung()
         }
     }
